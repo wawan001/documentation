@@ -27,7 +27,7 @@ some text
 
 **some text**
 
-## Emphasized text
+## Emphasized textt
 
 ```
 *some text*
