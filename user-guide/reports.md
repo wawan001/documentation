@@ -1,4 +1,4 @@
-# Reports
+# ReportsSs
 
 Reports feature is available in [Advanced Pack](https://www.espocrm.com/extensions/advanced-pack/).
 
